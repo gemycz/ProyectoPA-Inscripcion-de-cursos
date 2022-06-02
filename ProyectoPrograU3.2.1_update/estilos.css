@@ -1,0 +1,32 @@
+
+#form1{
+  background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,113,61,1) 100%);
+}
+
+#form2{
+  background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,113,61,1) 100%);
+}
+
+/*MENU*/
+
+.navbar{
+  background: #00713d;
+}
+
+.navbar-collapse .navbar-nav li a {
+  color: #ffffff;
+}
+
+.jumbotron{
+  background: url(./img/banner.png);
+  background-repeat: no-repeat;
+  height: 300px;
+  background-position: center;
+}
+
+
+#contenido-index{
+  padding-bottom: 200px;
+}
